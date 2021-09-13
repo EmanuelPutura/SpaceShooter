@@ -31,4 +31,4 @@ SpaceShooter is a game written in C#, where you control a spaceship in space wit
 
 
  ## Future Improvements
-It is worth mentioning that, being created a few years ago, during highschool, the application lacks several key concepts which I would use today, if I were to start  refactoring the code (e.g., using a layered arhitecture, separating the user interface and the functionalities).
+It is worth mentioning that, being created a few years ago, during highschool, the application lacks several key concepts which I would use today, if I were to start refactoring the code (e.g., using a layered arhitecture, separating the user interface and the functionalities).
