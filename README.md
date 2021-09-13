@@ -1,7 +1,7 @@
 # SpaceShooter
- SpaceShooter is a game written in C#, where you control a spaceship in space with a 2D view. The goal is to survive as long as possible against the enemy spaceships.
+SpaceShooter is a game written in C#, where you control a spaceship in space with a 2D view. The goal is to survive as long as possible against the enemy spaceships.
  
- ![Game](https://github.com/EmanuelPutura/SpaceShooter/blob/main/img/game.png)
+![Game](https://github.com/EmanuelPutura/SpaceShooter/blob/main/img/game.png)
  
  
  ## Setup
@@ -14,3 +14,21 @@
     $ cd ./SpaceShooter/bin/Release/
     $ SpaceShooter.exe
     ```
+
+ 
+ ## Usage
+ - the player's spaceship continuously shoots projectiles towards the enemies
+ - the player can control its spaceship using the arrow symbols on the keyboard
+ - the enemy spaceships randomly shoot projectiles towards the human player's spaceship
+
+
+ ## Features
+ - background music for the game
+ - random generation of small asteroids with different speeds
+ - random generation of different enemy spaceships
+ - random generation of enemy spaceships projectiles
+ - keyboard control for the human player
+
+
+ ## Future Improvements
+It is also worth mentioning that, being created a few years ago, during highschool, the application lacks several key concepts which I would use today, if I were to start  refactoring the code (e.g., using a layered arhitecture, separating the user interface and the functionalities).
