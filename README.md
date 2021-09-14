@@ -1,7 +1,8 @@
 # SpaceShooter
 SpaceShooter is a game written in C#, where you control a spaceship in space with a 2D view. The goal is to survive as long as possible against the enemy spaceships.
  
-![Game](https://github.com/EmanuelPutura/SpaceShooter/blob/main/img/game.png)
+<!-- ![Game](https://github.com/EmanuelPutura/SpaceShooter/blob/main/img/game.png) -->
+<p align="center"> <img src="https://github.com/EmanuelPutura/SpaceShooter/blob/main/img/game.png" height="400"/> </p>
  
  
  ## Setup
