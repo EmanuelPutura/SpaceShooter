@@ -11,3 +11,15 @@ D:\Emanuel\Informatica\C#\Proiecte personale\SpaceShooter\SpaceShooter\obj\Relea
 D:\Emanuel\Informatica\C#\Proiecte personale\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.CoreCompileInputs.cache
 D:\Emanuel\Informatica\C#\Proiecte personale\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.exe
 D:\Emanuel\Informatica\C#\Proiecte personale\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.pdb
+D:\Personal Projects\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.exe.config
+D:\Personal Projects\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.exe
+D:\Personal Projects\SpaceShooter\SpaceShooter\bin\Release\SpaceShooter.pdb
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\Interop.MediaPlayer.dll
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\Interop.WMPLib.dll
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.ResolveComReference.cache
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.Form1.resources
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.Properties.Resources.resources
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.GenerateResource.cache
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.exe
+D:\Personal Projects\SpaceShooter\SpaceShooter\obj\Release\SpaceShooter.pdb
